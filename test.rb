@@ -8,3 +8,4 @@ fast-forward test
 
 1
 2
+3
